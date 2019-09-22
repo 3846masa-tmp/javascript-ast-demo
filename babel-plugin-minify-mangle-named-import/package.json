@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "@3846masa/babel-plugin-minify-mangle-named-import",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava",
+    "update-snapshots": "ava --update-snapshots"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "ava": "^2.3.0"
+  }
+}

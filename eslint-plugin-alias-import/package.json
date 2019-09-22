@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "@3846masa/eslint-plugin-alias-import",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node tests/test.spec.js"
+  },
+  "devDependencies": {
+    "@types/eslint": "^6.1.1",
+    "eslint": "^6.3.0"
+  }
+}

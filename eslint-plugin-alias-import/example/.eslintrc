@@ -1,0 +1,10 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2015,
+    "sourceType": "module"
+  },
+  "plugins": ["@3846masa/alias-import"],
+  "rules": {
+    "@3846masa/alias-import/no-alias-import": "error"
+  }
+}

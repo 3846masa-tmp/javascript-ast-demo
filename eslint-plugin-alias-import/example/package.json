@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "devDependencies": {
+    "@3846masa/eslint-plugin-alias-import": "../",
+    "eslint": "^6.4.0"
+  }
+}

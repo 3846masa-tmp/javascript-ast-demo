@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "devDependencies": {
+    "@3846masa/babel-plugin-minify-mangle-named-import": "../",
+    "@babel/cli": "^7.6.0",
+    "@babel/core": "^7.6.0"
+  }
+}
